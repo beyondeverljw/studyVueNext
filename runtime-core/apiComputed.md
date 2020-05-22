@@ -13,6 +13,7 @@ import { recordInstanceBoundEffect } from './component'
 ```js
 // ...省略ts代码
 ```
+
 ```js
 export function computed<T>(
   getterOrOptions: ComputedGetter<T> | WritableComputedOptions<T>
