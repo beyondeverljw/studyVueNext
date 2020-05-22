@@ -1,7 +1,7 @@
 # packages/runtime-core/src/warning.ts
 
 ```js
-import { VNode } from './vnode'
+import { VNode } from './vnode'/Users/ljw/studyVueNext/readme.md
 import { Data, ComponentInternalInstance, Component } from './component'
 import { isString, isFunction } from '@vue/shared'
 import { toRaw, isRef, pauseTracking, resetTracking } from '@vue/reactivity'
